@@ -68,6 +68,3 @@ The script logs its progress and key actions at the `INFO` level, including:
 - Filtering recent reviews.
 - Processing inappropriate words.
 - Writing output files.
-
-
-Note: There are a few extra validations and modifications. I have added those to make the script more meaningful (eg: extra validation for ratings for it to be in the range of 0 to 10 etc.). Kindly consider those! Thank you!
